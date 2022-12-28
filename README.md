@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=ilhamalrahm)
 <!-- # 👋 Hi, I’m Ilham! -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=50&duration=3000&pause=1000&color=000000&center=true&width=500&height=100&lines=Hi%2C+I'm+Ilham)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=50&duration=3000&pause=1000&color=000000&width=500&height=100&lines=Hi%2C+I'm+Ilham)](https://git.io/typing-svg)
+
+- I am pursuing Btech in Computer and Communication Engineering from MIT, Manipal and BS in Data Science and Programming from IIT, Madras.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  ![Ilham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhamalrahm&show_icons=true&theme=radical)
 
