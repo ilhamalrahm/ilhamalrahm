@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=ilhamalrahm)
 - 👋 Hi, I’m @ilhamalrahm
 - 🌱 I’m currently pursuing Btech in Computer and Communication Engineering from MIT, Manipal and BSc in Data Science and Programming from IIT, Madras.
 
