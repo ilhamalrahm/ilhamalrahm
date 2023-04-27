@@ -4,8 +4,8 @@
 
 - 🌱 I am a student pursuing Btech in Computer and Communication Engineering from MIT, Manipal and BS in Data Science and Programming from IIT, Madras.
 - - -
-
-[![Top Langs](https://git-stats-ilhamalrahm.vercel.app/api/top-langs/?username=ilhamalrahm&layout=compact&langs_count=10&card_width=445px)](https://github.com/ilhamalrahm/git-stats)  ![Ilham's GitHub stats](https://git-stats-ilhamalrahm.vercel.app/api?username=ilhamalrahm&show_icons=true&theme=radical&count_private=true)
+https://github-readme-stats-fork-phi.vercel.app/
+[![Top Langs](https://github-readme-stats-fork-phi.vercel.app/api/top-langs/?username=ilhamalrahm&layout=compact&langs_count=10&card_width=445px)](https://github.com/ilhamalrahm/git-stats)  ![Ilham's GitHub stats](https://git-stats-ilhamalrahm.vercel.app/api?username=ilhamalrahm&show_icons=true&theme=radical&count_private=true)
 
 <!---
 ilhamalrahm/ilhamalrahm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
